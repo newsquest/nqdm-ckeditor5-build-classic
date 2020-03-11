@@ -1,5 +1,5 @@
 {
-  "name": "@nqdm/ckeditor5-build-classic",
+  "name": "@newsquest/nqdm-ckeditor5-build-classic",
   "version": "17.0.0",
   "description": "The Newsquest fork of the classic editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
